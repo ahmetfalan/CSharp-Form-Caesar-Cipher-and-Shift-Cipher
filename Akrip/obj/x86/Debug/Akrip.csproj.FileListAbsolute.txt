@@ -1,0 +1,7 @@
+c:\users\delyamet\documents\visual studio 2010\Projects\Akrip\Akrip\obj\x86\Debug\Akrip.Properties.Resources.resources
+c:\users\delyamet\documents\visual studio 2010\Projects\Akrip\Akrip\obj\x86\Debug\Akrip.csproj.GenerateResource.Cache
+c:\users\delyamet\documents\visual studio 2010\Projects\Akrip\Akrip\bin\Debug\Akrip.exe
+c:\users\delyamet\documents\visual studio 2010\Projects\Akrip\Akrip\bin\Debug\Akrip.pdb
+c:\users\delyamet\documents\visual studio 2010\Projects\Akrip\Akrip\obj\x86\Debug\Akrip.anasayfa.resources
+c:\users\delyamet\documents\visual studio 2010\Projects\Akrip\Akrip\obj\x86\Debug\Akrip.exe
+c:\users\delyamet\documents\visual studio 2010\Projects\Akrip\Akrip\obj\x86\Debug\Akrip.pdb
